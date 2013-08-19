@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_additional_taxonomy_info'
-  s.version     = '2.0.0'
+  s.version     = '2.0.1'
   s.summary     = 'Adds Additional Information to Spree Taxonomies'
   s.description = 'Currently adds a description and HEX color to each taxon for use on the UI.'
   s.required_ruby_version = '>= 1.9.3'
